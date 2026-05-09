@@ -1,3 +1,2 @@
 # hello-world
-AT ha llegado!
-Dame tu fuerza pegaso!
+Hola soy lord qwert
